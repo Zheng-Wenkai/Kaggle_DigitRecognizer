@@ -83,7 +83,7 @@ print(Y_train.value_counts())
 
 
 ----------
-# 二、建立base_model#
+# 二、建立base_model
 
 ### 2.1 数据预处理
 
@@ -149,7 +149,7 @@ history=model.fit(X_train,Y_train,
 
 
 ----------
-# 三、评估base_model#
+# 三、评估base_model
 
 ### 3.1 查看验证集的loss和accuracy
 ```
@@ -266,7 +266,7 @@ display_errors(most_important_errors, X_val_errors, Y_pred_classes_errors, Y_tru
 
 
 ----------
-# 四、模型的进一步优化#
+# 四、模型的进一步优化
 
 ### 4.1 数据扩增
 
