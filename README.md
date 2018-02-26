@@ -1,6 +1,5 @@
 # Kaggle_DigitRecognizer
 
-----------
 
 # 介绍
 
